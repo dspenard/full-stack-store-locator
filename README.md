@@ -3,7 +3,7 @@
 These are the resource files needed for the [Build a full stack store locator](https://codelabs.developers.google.com/codelabs/full-stack-store-locator/)
 codelab from Google.
 
-If you want to quickly get the first half of the example running, see the README under **example-without-sql**.
+If you just want to quickly get the first half of the example running without using Cloud SQL, see the README under **example-without-sql**.
 ## Introduction for the [Build a full stack store locator](https://codelabs.developers.google.com/codelabs/full-stack-store-locator/) codelab
 
 Imagine you have many places to put on a map and you want users to be able to see where these places are and identify which place they want to visit. Common examples of this include:
